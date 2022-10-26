@@ -10,8 +10,13 @@ function App() {
         <Weather />
         <footer>
           Open source{" "}
-          <a href="https://github.com/borahae13/react-weather-app">code</a> by
-          Shaina C.
+          <a
+            href="https://github.com/borahae13/react-weather-app"
+            rel="noreferrer"
+          >
+            code
+          </a>{" "}
+          by Shaina C.
         </footer>
       </div>
     </div>
