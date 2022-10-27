@@ -6,8 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Hello World!</h1>
-        <Weather />
+        <Weather defaultCity="Miami" />
         <footer>
           Open source{" "}
           <a
@@ -16,7 +15,7 @@ function App() {
           >
             code
           </a>{" "}
-          by Shaina C.
+          by Shaina Carson
         </footer>
       </div>
     </div>
